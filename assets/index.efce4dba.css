@@ -1,0 +1,1 @@
+body,*{margin:0;padding:0;box-sizing:border-box}body{min-height:100vh;background:#0f0f0f;display:flex;align-items:center;justify-content:center}#canvas{border-radius:30px;width:60vw;height:calc(60vw * 56.5/100)}
